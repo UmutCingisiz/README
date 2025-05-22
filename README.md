@@ -11,7 +11,7 @@
 Languages
 
 Turkish: Native
---
+
 English: B2
 
 🛠️ Languages and Tools
