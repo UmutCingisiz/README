@@ -3,7 +3,7 @@
 
 🎓 Final year Computer Engineering student at Eastern Mediterranean University  
 💻 Interested in Software Development, Web Technologies
-🌱 Currently learning React and freelancing  
+🌱 Currently learning Full-Stack Development, React and freelancing  
 📫 How to reach me: cingisizumut1@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/umut-ibrahim-cingisiz-878053309/
 ---
