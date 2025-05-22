@@ -8,8 +8,10 @@
 🔗 LinkedIn: https://www.linkedin.com/in/umut-ibrahim-cingisiz-878053309/
 ---
 
-Languages 
+Languages
+
 Turkish: Native
+--
 English: B2
 
 🛠️ Languages and Tools
