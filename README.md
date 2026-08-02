@@ -40,6 +40,6 @@ Currently, I am heavily invested in modern web technologies, specifically Next.j
 
 - 🌐 **Portfolio:** [umutcingisiz.com](https://umutcingisiz.com)
 - 💼 **LinkedIn:** [linkedin.com/in/umutcingisiz](https://linkedin.com/in/umutcingisiz) *(replace with your actual URL)*
-- ✉️ **Email:** [cingisizumut1@gmail.çom] 
+- ✉️ **Email:** [cingisizumut1@gmail.com] 
 
 ---
